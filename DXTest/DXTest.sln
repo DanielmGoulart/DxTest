@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DXTest", "DXTest.vcxproj", "{7972BA8C-86BE-4D8C-8BFB-516C7329D07D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Particles", "..\Particles\Particles.vcxproj", "{DC3C2374-2E69-4C45-856D-877AA1DA046F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Obstacles", "..\Obstacles\Obstacles.vcxproj", "{9C134215-38DE-4D7A-B08C-82C5D4706284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7972BA8C-86BE-4D8C-8BFB-516C7329D07D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7972BA8C-86BE-4D8C-8BFB-516C7329D07D}.Debug|Win32.Build.0 = Debug|Win32
+		{7972BA8C-86BE-4D8C-8BFB-516C7329D07D}.Release|Win32.ActiveCfg = Release|Win32
+		{7972BA8C-86BE-4D8C-8BFB-516C7329D07D}.Release|Win32.Build.0 = Release|Win32
+		{DC3C2374-2E69-4C45-856D-877AA1DA046F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC3C2374-2E69-4C45-856D-877AA1DA046F}.Debug|Win32.Build.0 = Debug|Win32
+		{DC3C2374-2E69-4C45-856D-877AA1DA046F}.Release|Win32.ActiveCfg = Release|Win32
+		{DC3C2374-2E69-4C45-856D-877AA1DA046F}.Release|Win32.Build.0 = Release|Win32
+		{9C134215-38DE-4D7A-B08C-82C5D4706284}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9C134215-38DE-4D7A-B08C-82C5D4706284}.Debug|Win32.Build.0 = Debug|Win32
+		{9C134215-38DE-4D7A-B08C-82C5D4706284}.Release|Win32.ActiveCfg = Release|Win32
+		{9C134215-38DE-4D7A-B08C-82C5D4706284}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
